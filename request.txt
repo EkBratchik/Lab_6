@@ -1,0 +1,3 @@
+select from company_table where shortname = "b"
+select from company_table where kind_of_activity   = "x"
+select from company_table where employee_number >= 0 and employee_number < 52
