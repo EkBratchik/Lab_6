@@ -1,0 +1,9 @@
+request 1 : "select from company_table where shortname   = "x"" 2020-10-28T21:06:51.225  -- succeeded
+request 2 : "select from company_table where employee_number >= 0 and employee_number < 52" 2020-10-28T21:06:51.229  -- succeeded
+request 1 : "select from company_table where shortname   = "x"" 2020-10-28T21:09:22.668  -- succeeded
+request 2 : "select from company_table where employee_number >= 0 and employee_number < 52" 2020-10-28T21:09:22.672  -- succeeded
+request 1 : "select from company_table where kind_of_activity   = "x"" 2020-10-28T21:11:34.870  -- succeeded
+request 2 : "select from company_table where employee_number >= 0 and employee_number < 52" 2020-10-28T21:11:34.874  -- succeeded
+request 1 : "select from company_table where shortname = "b"" 2020-10-28T21:18:18.664  -- succeeded
+request 2 : "select from company_table where kind_of_activity   = "x"" 2020-10-28T21:18:18.668  -- succeeded
+request 3 : "select from company_table where employee_number >= 0 and employee_number < 52" 2020-10-28T21:18:18.668  -- succeeded
